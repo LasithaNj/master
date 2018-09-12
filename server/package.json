@@ -14,10 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.0",
+    "cors": "^2.8.4",
     "debug": "^2.6.9",
-    "express": "^4.15.2",
+    "express": "^4.16.3",
     "fresh": "^0.5.2",
     "hoek": "^5.0.4",
-    "mime": "^1.6.0"
+    "mime": "^1.6.0",
+    "nodemon": "^1.18.4"
   }
 }
